@@ -1,5 +1,5 @@
 
-### - Project-1(Data Cleaning & Preparation): Overview
+### - PROJECT - 1 (Data Cleaning & Preparation): Overview
 This project focuses on cleaning and preparing a raw dataset for further analysis. The dataset contained missing values, duplicate records, and inconsistent data formats.
 
 ->Objective
@@ -30,7 +30,54 @@ Dataset provided during the DecodeLabs Data Analytics Internship.
 3. Run the notebook cells sequentially
 
 Install required library:
-```bash
 pip install pandas
 
-### - Project-2(Exploratory Data Analysis): Overview
+### - PROJECT - 2 (Exploratory Data Analysis): Overview:
+Performed Exploratory Data Analysis to identify trends, patterns, and outliers in the dataset.
+
+->Tools Used
+- Python, Pandas, Matplotlib, Google Colab
+
+->Analysis Performed
+- Mean and median calculation
+- Correlation analysis
+- Outlier detection
+- Trend analysis
+
+### - PROJECT - 3 (SQL Data Analysis): Overview
+This project focuses on performing SQL-based data analysis on a business dataset to extract meaningful insights using structured queries.
+
+->Objective
+- Extract insights from data using SQL queries
+- Filter and sort records
+- Group data for analysis
+- Perform aggregations like COUNT, SUM, and AVG
+
+->Tools & Technologies
+- Python, Pandas, PandaSQL, Google Colab, SQL
+
+->SQL Operations Performed:
+- SELECT queries
+- WHERE clause filtering
+- ORDER BY sorting
+- GROUP BY analysis
+- COUNT() aggregation
+- SUM() aggregation
+- AVG() aggregation
+
+->Analysis Performed
+- Identified high-value transactions
+- Analyzed revenue by product
+- Counted total orders by payment method
+- Calculated average sales
+- Sorted products based on revenue
+
+->How to Run
+
+1. Open Google Colab
+2. Upload the dataset file
+3. Install required library:
+- pip install pandasql
+4. Run all notebook cells sequentially
+
+### - PROJECT - 4()
