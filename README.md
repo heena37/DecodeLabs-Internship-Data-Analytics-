@@ -1,6 +1,5 @@
-##Data Cleaning & Preparation
 
-->Project Overview
+### - Project-1(Data Cleaning & Preparation): Overview
 This project focuses on cleaning and preparing a raw dataset for further analysis. The dataset contained missing values, duplicate records, and inconsistent data formats.
 
 ->Objective
@@ -10,9 +9,7 @@ This project focuses on cleaning and preparing a raw dataset for further analysi
 - Prepare clean data for analysis
 
 ->Tools & Technologies
-- Python
-- Pandas
-- Google Colab
+- Python, Pandas, Google Colab
 
  ->Dataset
 Dataset provided during the DecodeLabs Data Analytics Internship.
@@ -35,3 +32,5 @@ Dataset provided during the DecodeLabs Data Analytics Internship.
 Install required library:
 ```bash
 pip install pandas
+
+### - Project-2(Exploratory Data Analysis): Overview
