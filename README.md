@@ -32,18 +32,6 @@ Dataset provided during the DecodeLabs Data Analytics Internship.
 Install required library:
 pip install pandas
 
-### - PROJECT - 2 (Exploratory Data Analysis): Overview:
-Performed Exploratory Data Analysis to identify trends, patterns, and outliers in the dataset.
-
-->Tools Used
-- Python, Pandas, Matplotlib, Google Colab
-
-->Analysis Performed
-- Mean and median calculation
-- Correlation analysis
-- Outlier detection
-- Trend analysis
-
 ### - PROJECT - 3 (SQL Data Analysis): Overview
 This project focuses on performing SQL-based data analysis on a business dataset to extract meaningful insights using structured queries.
 
